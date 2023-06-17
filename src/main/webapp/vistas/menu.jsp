@@ -28,9 +28,6 @@
     <li>
       <input type="button" value="Todos los alumnos y sus portatiles" onclick="window.location.href='TodosLosAlunosYSusPortatiles'"/>
     </li>
-    <li>
-      <input type="button" value="Alta de alumno BETA" onclick="window.location.href='alta-alumno'"/>
-    </li>
   </ul>
 </nav>
 <script>
